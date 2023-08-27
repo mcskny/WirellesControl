@@ -6,5 +6,5 @@ In this project, I developed a system that remotely controls the computer with E
 
 
 # Recievers Scheme
-![image](https://github.com/mcskny/WirellesControl/assets/132782511/85e5b1e2-d85c-4798-a501-9c5d3b6190e4)
+![263527341-85e5b1e2-d85c-4798-a501-9c5d3b6190e4](https://github.com/mcskny/WirellesControl/assets/132782511/07ab2a3f-8165-4f48-8065-4c868026fb39)
 ![WhatsApp Image 2023-08-27 at 15 02 27](https://github.com/mcskny/WirellesControl/assets/132782511/b58f7d48-7ff8-4b51-b450-9934177ea0c1)
