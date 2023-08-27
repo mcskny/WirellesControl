@@ -8,3 +8,6 @@ In this project, I developed a system that remotely controls the computer with E
 # Recievers Scheme
 ![263527341-85e5b1e2-d85c-4798-a501-9c5d3b6190e4](https://github.com/mcskny/WirellesControl/assets/132782511/07ab2a3f-8165-4f48-8065-4c868026fb39)
 ![WhatsApp Image 2023-08-27 at 15 02 27](https://github.com/mcskny/WirellesControl/assets/132782511/b58f7d48-7ff8-4b51-b450-9934177ea0c1)
+
+# Usage
+All you need to do is connect your pro micro to the computer. And now you'll be able to make remote mouse clicks when you press the button. I hope you like it
